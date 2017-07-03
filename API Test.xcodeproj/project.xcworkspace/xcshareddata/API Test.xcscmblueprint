@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DEBEE3FD49596C82D9E5EF101026CDAB9366C7E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "69CED83232F516382A98177056E85A2D28AFB5A2" : 0,
+    "DEBEE3FD49596C82D9E5EF101026CDAB9366C7E8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6AACBC17-DBB8-4163-B455-23DE29C5C124",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "69CED83232F516382A98177056E85A2D28AFB5A2" : "",
+    "DEBEE3FD49596C82D9E5EF101026CDAB9366C7E8" : "API%20Test\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "API Test",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "API Test.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/NHSCoding14-15\/API-Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "69CED83232F516382A98177056E85A2D28AFB5A2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/QuantumMatter\/API-Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DEBEE3FD49596C82D9E5EF101026CDAB9366C7E8"
+    }
+  ]
+}
